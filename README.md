@@ -1,6 +1,6 @@
 
 
-# HyperionDev Final Capstone Project
+# Inventory Project
 
 #### A Python program for a warehouse, to optimise delivery time and for an improved overview of what each stock-taking session entailed.
 ---------------------------------------------------------------
